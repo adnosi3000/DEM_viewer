@@ -1,9 +1,3 @@
-<style media="screen">
-  img {width: 500px}
-  table {border-collapse:collapse; border:1px solid black;}
-  td {border: 1px solid black; padding: 4px;}
-</style>
-
 <h3>Simple DEM viewer</h3>
 <p>This Python script allows one to visualize a <b>Digital Elevation Model</b>. Moreover, one can manipulate points that are displayed (zoom and rotation).
 Data is presented in <code>pygame</code> window. To navigate use keyboard arrows (X and Y axis of the scene), ',' '.' keys (Z axis of the scene) and '+' '-' to zoom in and out.</p>
